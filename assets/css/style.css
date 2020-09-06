@@ -3,14 +3,11 @@ body {
   background-color: #d9dcd6;
 }
 
-/* 1 Added styling to section h1. */
-section h2 {
+/* 1 Added styling to section h1.----- */
+header {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-}
-
-.header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -18,7 +15,7 @@ section h2 {
   color: #ffffff;
 }
 /* removed .header in h1 */
-h1 {
+header h1 {
   display: inline-block;
   font-size: 48px;
 }
@@ -28,7 +25,7 @@ h1 {
   color: #d9dcd6;
 }
 /* Removed .header and replaced it with section */
-section div {
+header div {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -40,7 +37,7 @@ section div {
 /* Removed .header div ul li and consolodated it to section div above. */
 /* Added back .header div ul li styling and replaced .header with section. */
 
-section div ul li {
+header div ul li {
   display: inline-block;
   margin-left: 25px;
 }
