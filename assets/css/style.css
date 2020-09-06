@@ -199,7 +199,7 @@ footer {
   text-align: center;
 }
 
-/* */
-footer h2 {
+/*Moved h2 element to precede footer and moved the styling to the top of the page.*/
+h2 footer {
   font-size: 20px;
 }
