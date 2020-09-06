@@ -42,6 +42,7 @@ section div {
 }
 /* Removed .header div ul styling and added it to section div because they all have the sme styling. */
 /* Removed .header div ul li and consolodated it to section div above. */
+/* Added back .header div ul li styling and replaced .header with section. */
 
 section div ul li {
   display: inline-block;
@@ -140,7 +141,7 @@ p {
   max-width: 150px;
 }
 
-.search-engine-optimization {
+.product {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -149,7 +150,7 @@ p {
   color: #ffffff;
 }
 
-.online-reputation-management {
+.product {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -158,7 +159,7 @@ p {
   color: #ffffff;
 }
 
-.social-media-marketing {
+.product {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -166,16 +167,16 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
-.search-engine-optimization img {
+/* Replaced Search Engine Optimization class with product */
+.product img {
   max-height: 200px;
 }
-
-.online-reputation-management img {
+/* Replaced Online Reptaion Mangement class with product */
+.product img {
   max-height: 200px;
 }
-
-.social-media-marketing img {
+/* Replaced Social Media Marketing class with product */
+.product img {
   max-height: 200px;
 }
 
