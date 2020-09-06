@@ -39,14 +39,14 @@ section div {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
   list-style-type: none;
-  display: inline-block;
-  margin-left: 25px;
 }
 /* Removed .header div ul styling and added it to section div because they all have the sme styling. */
 /* Removed .header div ul li and consolodated it to section div above. */
- {
-}
 
+section div ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
 a {
   color: #ffffff;
   text-decoration: none;
