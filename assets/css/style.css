@@ -140,7 +140,8 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* Replaced Search Engine Optimization,Online Reputation Management,Social Media Marketing classes with Product */
+/* Removed repetetive product styling and mainatined one. */
 .product {
   margin-bottom: 20px;
   padding: 50px;
@@ -150,23 +151,6 @@ p {
   color: #ffffff;
 }
 
-.product {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.product {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
 /* Replaced Search Engine Optimization class with product */
 .product img {
   max-height: 200px;
@@ -179,17 +163,17 @@ p {
 .product img {
   max-height: 200px;
 }
-
+/* Replaced Search Engine Optimization class with product*/
 .search-engine-optimization h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* Replaced Online Reptaion Mangement class with product */
 .online-reputation-management h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* Replaced Social Media Marketing class with product */
 .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
