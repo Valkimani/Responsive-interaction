@@ -1,13 +1,17 @@
-/* 1 Added styling to section h1. */
+/* Moved the body styling to the top of the page */
+body {
+  background-color: #d9dcd6;
+}
+/*Moved h2 element to precede footer and moved the styling to the top of the page.*/
+h2 footer {
+  font-size: 20px;
+}
 
-* section h1 {
+/* 1 Added styling to section h1. */
+section h1 {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-}
-
-body {
-  background-color: #d9dcd6;
 }
 
 .header {
@@ -197,9 +201,4 @@ footer {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
-}
-
-/*Moved h2 element to precede footer and moved the styling to the top of the page.*/
-h2 footer {
-  font-size: 20px;
 }
