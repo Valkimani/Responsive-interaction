@@ -94,53 +94,23 @@ p {
 }
 
 /* Removed -lead, -brand, -cost and maitntained benefit for consolidated styling */
+/* Removed repetitive styling for .benefit, .benefit h3 and.benefit img. Maintained one for each. */
 .benefit {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
 /* Removed -lead, -brand, -cost and maitntained benefit in h3 and img tags. */
-.benefith3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
 .benefit h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
-.benefit h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
 .benefit img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-.benefit img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
 /* Replaced Search Engine Optimization,Online Reputation Management,Social Media Marketing classes with Product */
 /* Removed repetetive product styling and mainatined one. */
 .product {
@@ -165,17 +135,17 @@ p {
   max-height: 200px;
 }
 /* Replaced Search Engine Optimization class with product*/
-.search-engine-optimization h2 {
+.product h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 /* Replaced Online Reptaion Mangement class with product */
-.online-reputation-management h2 {
+.product h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 /* Replaced Social Media Marketing class with product */
-.social-media-marketing h2 {
+.product h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
