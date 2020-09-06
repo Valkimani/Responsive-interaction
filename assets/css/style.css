@@ -27,11 +27,12 @@ section h1 {
   font-size: 48px;
 }
 
+/* Removed header h1 preceding class seo */
 .seo {
   color: #d9dcd6;
 }
-
-.header div {
+/* Removed.header and  replaced it with section */
+section div {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
