@@ -190,7 +190,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* Removed class in css and replaced with footer  */
 footer {
   padding: 30px;
   clear: both;
@@ -199,6 +199,7 @@ footer {
   text-align: center;
 }
 
+/* */
 footer h2 {
   font-size: 20px;
 }
