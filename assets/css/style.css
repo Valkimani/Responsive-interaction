@@ -21,7 +21,7 @@ section h1 {
   background-color: #2a607c;
   color: #ffffff;
 }
-
+/* removed .header in h1 */
 h1 {
   display: inline-block;
   font-size: 48px;
@@ -38,11 +38,9 @@ section div {
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
-}
-
-.header div ul {
   list-style-type: none;
 }
+/* Removed .header div ul styling and added it to section div. */
 
 .header div ul li {
   display: inline-block;
