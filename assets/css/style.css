@@ -93,17 +93,18 @@ p {
   background-color: #2589bd;
 }
 
-.benefit-lead {
+/* Removed -lead, -brand, --cost and maitntained benefit for consolidated styling */
+.benefit {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit-brand {
+.benefit {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit-cost {
+.benefit {
   margin-bottom: 32px;
   color: #ffffff;
 }
