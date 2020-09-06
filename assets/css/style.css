@@ -22,7 +22,7 @@ section h1 {
   color: #ffffff;
 }
 
-.header h1 {
+h1 {
   display: inline-block;
   font-size: 48px;
 }
@@ -31,7 +31,7 @@ section h1 {
 .seo {
   color: #d9dcd6;
 }
-/* Removed.header and  replaced it with section */
+/* Removed .header and replaced it with section */
 section div {
   padding-top: 15px;
   margin-right: 20px;
