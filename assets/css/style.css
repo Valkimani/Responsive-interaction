@@ -6,7 +6,9 @@ body {
   padding: 0;
 }
 
-/* 1 Added styling to section h1.----- */
+/* 1 Added styling to section h1. */
+/* Replaced section with header aand removed .header in the styling. */
+/* consolidated header and .header styling because I removed the class. */
 header {
   box-sizing: border-box;
   padding: 0;
@@ -28,7 +30,7 @@ header h1 {
   color: #d9dcd6;
 }
 /* Removed .header and replaced it with section */
-header div {
+header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -40,7 +42,7 @@ header div {
 /* Removed .header div ul li and consolodated it to section div above. */
 /* Added back .header div ul li styling and replaced .header with section. */
 
-header div ul li {
+header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
