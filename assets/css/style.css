@@ -1,6 +1,8 @@
 /* Moved the body styling to the top of the page */
 body {
   background-color: #d9dcd6;
+  margin: 0;
+  padding: 0;
 }
 
 /* 1 Added styling to section h1.----- */
