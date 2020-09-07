@@ -41,6 +41,7 @@ header nav {
 /* Removed .header div ul styling and added it to section div because they all have the sme styling. */
 /* Removed .header div ul li and consolodated it to section div above. */
 /* Added back .header div ul li styling and replaced .header with section. */
+/* Replaced the div tag in h1 with nav element.*/
 
 header nav ul li {
   display: inline-block;
@@ -79,7 +80,28 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
+/* Replaced Search Engine Optimization,Online Reputation Management,Social Media Marketing classes with Product */
+/* Removed repetetive product styling and mainatined one. */
+/* Moved .products styling above .benefits because that's the order in the html file.*/
+.product {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+/* Replaced Search Engine Optimization,Online Reputation Mangement,Social Media Marketing class with product */
+/*  Consolidated repetitive styling for .product img and .product h2. Maintained one for each. */
 
+.product img {
+  max-height: 200px;
+}
+
+.product h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -109,27 +131,6 @@ p {
   max-width: 150px;
 }
 
-/* Replaced Search Engine Optimization,Online Reputation Management,Social Media Marketing classes with Product */
-/* Removed repetetive product styling and mainatined one. */
-.product {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-/* Replaced Search Engine Optimization,Online Reputation Mangement,Social Media Marketing class with product */
-/*  Consolidated repetitive styling for .product img and .product h2. Maintained one for each. */
-
-.product img {
-  max-height: 200px;
-}
-
-.product h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
 /* Removed class in css and replaced with footer  */
 footer {
   padding: 30px;
