@@ -1,4 +1,5 @@
 /* Moved the asterisk/* universal selector back to the top. */
+/* Organized the styling order starting with elements followed by class. */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -53,7 +54,19 @@ a {
   color: #ffffff;
   text-decoration: none;
 }
-
+/* Removed class in css and replaced with footer  */
+footer {
+  padding: 30px;
+  clear: both;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+/*Moved h2 element to precede footer and moved the styling to the top of the page.*/
+/* Reverted back footer to preced h2 and moved the styling to the bottom of the page. */
+footer h2 {
+  font-size: 20px;
+}
 /* Removed header h1 preceding class seo */
 .seo {
   color: #d9dcd6;
@@ -132,18 +145,4 @@ a {
   display: block;
   margin: 10px auto;
   max-width: 150px;
-}
-
-/* Removed class in css and replaced with footer  */
-footer {
-  padding: 30px;
-  clear: both;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  text-align: center;
-}
-/*Moved h2 element to precede footer and moved the styling to the top of the page.*/
-/* Reverted back footer to preced h2 and moved the styling to the bottom of the page. */
-footer h2 {
-  font-size: 20px;
 }
