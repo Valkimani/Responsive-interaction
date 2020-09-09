@@ -2,6 +2,8 @@
 
 <!--Added a description of the refactor project.-->
 
+- Description
+
 This is a refactor coding project. The codebase follows accessibility standards
 making it optimizable for search engines. The existing code has been restructured to make it more accessible without changing the external behavior. As a result, the code is easier to read while preserving its functionality.
 
@@ -22,3 +24,11 @@ To make the CSS more efficient, CSS selectors and properties were integrated to 
 For the images, an alt attribute was added with an accessible name.
 
 The title describes a website that provides an improved,responsive user friendly search.
+
+- Screenshot
+
+![Responsive interaction cover page screenshot.!](/assets/images/responsive-interaction.jpg"Philadelphia's Magic Gardens")
+
+- Link to deployed app
+
+https://valkimani.github.io/Responsive-interaction/
