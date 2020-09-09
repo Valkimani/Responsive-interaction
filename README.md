@@ -9,7 +9,7 @@ To achive this, semantic elements like Aside,Footer,Header, Main and Nav were us
 
 For the client
 
-1. The use of semantic elemnts will enable Search engines to consider its contents as important keywords. This will influence the page's search rankings.
+1. The use of semantic elements will enable Search engines to consider its contents as important keywords. This will influence the page's search rankings.
 2. Contrast has been utilized in the Header using different colors. This is helpful while helping visually impaired users navigate the page.
 
 For a fellow developer
