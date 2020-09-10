@@ -7,7 +7,7 @@
 This is a refactor coding project. The codebase follows accessibility standards
 making it optimizable for search engines. The existing code has been restructured to make it more accessible without changing the external behavior. As a result, the code is easier to read while preserving its functionality.
 
-To achive this, semantic elements like Aside,Footer,Header, Main and Nav were used to replace the Div elements. These are more descriptive at representing data. Other resaons for using semanitc elements were;
+To achive this, semantic elements like Aside,Footer,Header, Main and Nav were used to replace the Div elements.These are more descriptive at representing data. Other resaons for using semanitc elements were;
 
 For the client
 
@@ -27,8 +27,37 @@ The title describes a website that provides an improved,responsive user friendly
 
 - Screenshot
 
-![Responsive interaction cover page screenshot.!](/assets/images/responsive-interaction.jpg"Philadelphia's Magic Gardens")
+![Responsive interaction cover page screenshot.!](/assets/images/responsive-interaction.jpg"Responsive interaction")
 
 - Link to deployed app
+  To access the project, please use the links below.
 
-https://valkimani.github.io/Responsive-interaction/
+Deployed site : https://valkimani.github.io/Responsive-interaction/
+Github: https://github.com/Valkimani/Responsive-interaction
+
+Credits:
+https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+
+Lincense
+
+MIT License
+
+Copyright (c) [2020] [Valentine Kimani]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
