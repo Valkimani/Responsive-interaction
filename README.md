@@ -27,7 +27,7 @@ The title describes a website that provides an improved,responsive user friendly
 
 - Screenshot
 
-![Responsive interaction cover page screenshot.!](/assets/images/responsive-interaction.jpg"Responsive interaction")
+![Responsive](./assets/images/responsive.png)
 
 - Link to deployed app
   To access the project, please use the links below.
@@ -35,10 +35,10 @@ The title describes a website that provides an improved,responsive user friendly
 Deployed site : https://valkimani.github.io/Responsive-interaction/
 Github: https://github.com/Valkimani/Responsive-interaction
 
-Credits:
-https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+- Credits:
+  https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 
-Lincense
+- Lincense
 
 MIT License
 
